@@ -15,7 +15,7 @@ public class HomeTask6 {
 
         int dash = 24;
         for (int a = 0; a < dash; a++) {
-            System.out.printf("-");
+            System.out.print("-");
         }
 
         System.out.printf("%n%s %d",
